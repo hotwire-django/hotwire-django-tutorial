@@ -1,3 +1,5 @@
+**This project has been moved to [https://github.com/rails-inspire-django/hotwire-django-tutorial](https://github.com/rails-inspire-django/hotwire-django-tutorial)**
+
 # README
 
 This open source book is to help Django developers to learn **Hotwire**
